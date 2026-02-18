@@ -24,7 +24,6 @@ Full-stack developer building with **Vue + TypeScript + Node.js** and exploring 
 
 <details>
   <br/>
-
   ![](https://github-readme-stats.vercel.app/api?username=Hizashii&show_icons=true&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hizashii&layout=compact&hide_border=true)
 </details>
