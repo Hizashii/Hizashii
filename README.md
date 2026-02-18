@@ -19,7 +19,7 @@ Full-stack developer building with **Vue + TypeScript + Node.js** and exploring 
 - **Other:** Python, C, Git
 
 ## Featured work
-- **Incheck** — It is a PDF to EXCEL platform that checks a document and gives statistics on legitimacy and exports all important information. [ link ]((https://money-mu-ruby.vercel.app/upload)) 
+- **Incheck** — It is a PDF to EXCEL platform that checks a document and gives statistics on legitimacy and exports all important information. [ link ](https://money-mu-ruby.vercel.app/upload) 
 - **CinemaBook** — It is a full-stack platform with admin dashboard for managing a cinema system and frontend for end users to book tickets and more. →[ link ](https://papayawhip-llama-422273.hostingersite.com/) 
 
 <details>
