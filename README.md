@@ -23,7 +23,6 @@ Full-stack developer building with **Vue + TypeScript + Node.js** and exploring 
 - **CinemaBook** — It is a full-stack platform with admin dashboard for managing a cinema system and frontend for end users to book tickets and more. →[ link ](https://papayawhip-llama-422273.hostingersite.com/) 
 
 <details>
-  <summary><b>GitHub stats</b></summary>
   <br/>
 
   ![](https://github-readme-stats.vercel.app/api?username=Hizashii&show_icons=true&hide_border=true)
