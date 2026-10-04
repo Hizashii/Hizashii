@@ -1,25 +1,47 @@
-# Luchezar
+# Hey, I'm Lachezar 👋
 
-Full-stack developer building with **Vue + TypeScript + Node.js** and exploring **AI/ML in Python**.
+Full-stack software engineer building products with **TypeScript, Angular, React, Vue, Node.js and C#**.
 
-**Interested in:** scalable web apps, clean architecture, and creative developer tools.  
-**Contact:** [Luchezar.DD@protonmail.com](mailto:Luchezar.DD@protonmail.com)
+Lately I’ve been getting deeper into **AI automation, infrastructure, systems, Rust and security**.
 
----
+Basically, I like building things and then figuring out what happens underneath them.
 
-## Now
-- Building full-stack projects (Vue, TypeScript, Node/Express)
-- Learning Python (AI/ML) + C (Raspberry Pi)
-- Open to collaborating on open-source tools and web apps
+## 🔧 Currently
 
-## Stack
-- **Frontend:** Vue, TypeScript, JavaScript, HTML/CSS, React
-- **Backend:** Node.js, Express, PHP
-- **Databases:** MongoDB, MySQL, Redis
-- **Other:** Python, C, Git
+- Building **Applyer**, an AI-powered job application platform
+- Working professionally with **Angular + TypeScript**
+- Experimenting with **Rust, local AI, Docker and infrastructure**
+- Trying to understand more than just the frontend
 
-## Featured work
-- **Incheck** — It is a PDF to EXCEL platform that checks a document and gives statistics on legitimacy and exports all important information. [ link ](https://money-mu-ruby.vercel.app/upload) 
-- **CinemaBook** — It is a full-stack platform with admin dashboard for managing a cinema system and frontend for end users to book tickets and more. →[ link ](https://papayawhip-llama-422273.hostingersite.com/) 
+## 🧰 Stack
 
-<sub>Fun fact: I earned an NPO title (world champion) in Japanese public speaking at 17.</sub>
+**Frontend:** TypeScript, Angular, React, Vue, Next.js  
+**Backend:** Node.js, NestJS, C#, PHP  
+**Data:** PostgreSQL, MySQL, MongoDB, Redis  
+**Other:** Python, Rust, Docker, Terraform, Git
+
+## 🚀 Projects
+
+### Applyer
+AI-powered job application automation, from job matching to submission.
+
+### SpisNem
+Restaurant queue platform with live wait times, maps and restaurant management.
+
+### MinWin
+Experimental Windows optimisation tool written in Rust that measures before changing anything.
+
+### Older stuff
+- [Incheck](https://money-mu-ruby.vercel.app/upload) — PDF analysis and Excel export
+- [CinemaBook](https://papayawhip-llama-422273.hostingersite.com/) — full-stack cinema booking platform
+
+## 🌍 A bit about me
+
+- Based in Denmark
+- Fluent in Japanese 🇯🇵
+- Started in technical support at Cisco and Microsoft before moving into software engineering
+- Usually building something
+
+## 📫 Reach me
+
+[Portfolio](https://lachezar.online) · [LinkedIn](https://linkedin.com/in/lachezar-dimchov) · [Email](mailto:Luchezar.DD@protonmail.com)
