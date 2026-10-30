@@ -1,47 +1,39 @@
-# Hey, I'm Lachezar 👋
+# Lachezar Dimchov
 
-Full-stack software engineer building products with **TypeScript, Angular, React, Vue, Node.js and C#**.
+**Full-stack software engineer · TypeScript, Angular, React, Vue & Node.js**
 
-Lately I’ve been getting deeper into **AI automation, infrastructure, systems, Rust and security**.
+I build web applications end to end, from frontend interactions to APIs, data flows and performance work. My experience spans production software at **Visma** and **Weblager**, plus independent and collaborative product development.
 
-Basically, I like building things and then figuring out what happens underneath them.
-
-## 🔧 Currently
-
-- Building **Applyer**, an AI-powered job application platform
-- Working professionally with **Angular + TypeScript**
-- Experimenting with **Rust, local AI, Docker and infrastructure**
-- Trying to understand more than just the frontend
-
-## 🧰 Stack
-
-**Frontend:** TypeScript, Angular, React, Vue, Next.js  
-**Backend:** Node.js, NestJS, C#, PHP  
-**Data:** PostgreSQL, MySQL, MongoDB, Redis  
-**Other:** Python, Rust, Docker, Terraform, Git
-
-## 🚀 Projects
-
-### Applyer
-AI-powered job application automation, from job matching to submission.
-
-### SpisNem
-Restaurant queue platform with live wait times, maps and restaurant management.
-
-### MinWin
-Experimental Windows optimisation tool written in Rust that measures before changing anything.
-
-### Older stuff
-- [Incheck](https://money-mu-ruby.vercel.app/upload) — PDF analysis and Excel export
-- [CinemaBook](https://papayawhip-llama-422273.hostingersite.com/) — full-stack cinema booking platform
-
-## 🌍 A bit about me
-
-- Based in Denmark
-- Fluent in Japanese 🇯🇵
-- Started in technical support at Cisco and Microsoft before moving into software engineering
-- Usually building something
-
-## 📫 Reach me
+Based in Denmark · Open to **full-time software engineering roles in Copenhagen**.
 
 [Portfolio](https://lachezar.online) · [LinkedIn](https://linkedin.com/in/lachezar-dimchov) · [Email](mailto:Luchezar.DD@protonmail.com)
+
+---
+
+### Engineering focus
+
+- **Frontend:** Angular, React, Vue, Next.js, TypeScript, HTML/CSS
+- **Backend:** Node.js, Express, NestJS, REST APIs, C#/.NET
+- **Data & infrastructure:** PostgreSQL, MongoDB, Redis, Docker, Git
+- **Currently exploring:** Rust, AI integrations and infrastructure
+
+I enjoy making complex interfaces understandable, tracing problems across system boundaries and building features that remain maintainable after shipping.
+
+### Selected work
+
+| Project | What it demonstrates |
+| --- | --- |
+| **[Creative Hub](https://github.com/Hizashii/Creative-Hub)** | Full-stack TypeScript application with a React frontend, Express API, MongoDB and JWT-based authentication. |
+| **[HOldBox](https://github.com/Hizashii/HOldBox)** | E-commerce and administration interface built with Vue 3, TypeScript and Pinia. |
+| **[MovieMatch API](https://github.com/Hizashii/MovieMatchAPI)** | C# / ASP.NET Core REST API with authentication, Swagger and repository abstractions. |
+| **[GreenNest](https://github.com/Hizashii/GreenNest)** | Nuxt 3 / Vue storefront concept with responsive frontend components. |
+
+### Beyond public repositories
+
+Some of my most relevant work is in private commercial codebases, including production Angular development, platform improvements and backend performance optimization. I can discuss architectural decisions and concrete contributions without disclosing proprietary code.
+
+I also work on **APPLYER**, an AI-powered job platform, as a technical co-founder. Its organization repository is private.
+
+---
+
+**Interested in collaborating or discussing a software engineering role?** [Get in touch](mailto:Luchezar.DD@protonmail.com).
