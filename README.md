@@ -24,7 +24,6 @@ I enjoy making complex interfaces understandable, tracing problems across system
 | Project | What it demonstrates |
 | --- | --- |
 | **[Creative Hub](https://github.com/Hizashii/Creative-Hub)** | Full-stack TypeScript application with a React frontend, Express API, MongoDB and JWT-based authentication. |
-| **[HOldBox](https://github.com/Hizashii/HOldBox)** | E-commerce and administration interface built with Vue 3, TypeScript and Pinia. |
 | **[MovieMatch API](https://github.com/Hizashii/MovieMatchAPI)** | C# / ASP.NET Core REST API with authentication, Swagger and repository abstractions. |
 | **[GreenNest](https://github.com/Hizashii/GreenNest)** | Nuxt 3 / Vue storefront concept with responsive frontend components. |
 
